@@ -1,0 +1,18 @@
+{
+    "name": "alex/task-manager",
+    "description": "Task manager on php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alex\\TaskManagerApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TRITONKOR",
+            "email": "sasalahotskij@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
